@@ -15,7 +15,12 @@ Tabela: MembroFamilia. Descrição: Identifica os membros de determinada famíli
 <img src=".\FilmeCorraConceitualImg.png">
 
 # Instruções de Configuração
-## 1. Instale o
+## 1. Instale o PostgreSQL:
+https://www.enterprisedb.com/postgresql-tutorial-resources-training-1?uuid=d0ed4d28-191f-4273-b6a9-427ab0b4c448&campaignId=Product_Trial_PostgreSQL_15
 ## 2. Crie o banco de dados
+```SQL
+CREATE DATABASE FilmeCorraExport
+```
 
 # Licença
+MIT License
